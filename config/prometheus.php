@@ -94,7 +94,7 @@ return [
 
         'redis' => [
             'host' => env('REDIS_HOST', 'localhost'),
-            'port' => env('REDIS_PORT', 6379),
+            'port' => (int)env('REDIS_PORT', 6379),
             'timeout' => 0.1,
             'read_timeout' => 10,
             'persistent_connections' => false,
