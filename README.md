@@ -1,3 +1,11 @@
+# :exclamation: Temporary fork :exclamation:
+
+This is a temporary fork from https://github.com/adi64/laravel-prometheus-exporter originally forked from https://github.com/Superbalist/laravel-prometheus-exporter.
+It will live before the original project modify the original Prometheus client from the abandoned package
+Jimdo/prometheus_client_php to endclothing/prometheus_client_php. Right now I need this to prevent blocking
+the current CI/CD process for live projects.
+
+
 # laravel-prometheus-exporter
 
 A prometheus exporter for Laravel.
