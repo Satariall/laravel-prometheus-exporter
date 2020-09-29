@@ -12,7 +12,7 @@
     "php": ">=7.1",
     "illuminate/support": "^5.3 || ^6.0 || ^7.0 || ^8.0",
     "illuminate/routing": "^5.3 || ^6.0 || ^7.0 || ^8.0",
-    "endclothing/prometheus_client_php": "^1.0"
+    "satariall/prometheus_client_php": "^1.0"
   },
   "autoload": {
     "psr-4": {
